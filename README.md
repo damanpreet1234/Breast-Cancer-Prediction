@@ -20,7 +20,7 @@ Navie Bayes Classifier
 Decision Tree Classifier
 K Nearest Neighbor (KNN)
 Import Dataset
-The data has been obtained from https://www.kaggle.com/. If you are interested in the social impact data can bring about, you must definitely check out their work. The Dataset is also available in this repository in the data folder. Link: https://github.com/Navu4/Breast-Cancer-Prediction/blob/master/Data/breast_cancer.csv
+The data has been obtained from https://www.kaggle.com/. If you are interested in the social impact data can bring about, you must definitely check out their work. The Dataset is also available in this repository in the data folder.
 
 Data VisualiZation using Matplotlib and Seaborn
 Exploring the dataset
